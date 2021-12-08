@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# <h1>Jeremy Pryor<h1>
+<h1>Jeremy Pryor<h1>
 
 <br>
   
