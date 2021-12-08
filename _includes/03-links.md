@@ -1,1 +1,1 @@
-Replace this with a link to your a GitHub or social media profile.
+![My link to showcase what I'm working on here on GitHub] https://github.com/JermPryor1994
