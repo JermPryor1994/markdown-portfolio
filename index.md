@@ -12,3 +12,10 @@ layout: default
 
   [My Github account link] https://github.com/JermPryor1994
 
+<br>
+
+{% include 04-lists.md %}
+
+<br>
+
+{% include 05-emphasis.md %}
